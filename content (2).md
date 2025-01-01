@@ -32,9 +32,9 @@ https://www.ossnav.com/
 
 工具名称 | 简介 | 源
 ---- | ----- | -----
-[Home Assistant](https://www.ossnav.com/app/245.html) | 开源的智能家居自动化平台 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link.png)](https://www.home-assistant.io/)
-[Watt Toolkit](https://www.ossnav.com/app/238.html) | 多功能 Steam 工具箱，支持github、Steam、微软商店等多国外平台加速！ | [![](https://github.com/maxiaobang7/ossnav/blob/main/link.png)](https://github.com/BeyondDimension/SteamTools)
-[OBS Studio](https://www.ossnav.com/app/57.html ) | 一键实现 AI 换脸，仅需一张换脸图像，无需数据集，无需训练，自带敏感图像检测功能。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link.png)](https://obsproject.com/)
+[Home Assistant](https://www.ossnav.com/app/245.html) | 开源的智能家居自动化平台 | [![]([https://github.com/maxiaobang7/ossnav/blob/main/link.png](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png))](https://www.home-assistant.io/)
+[Watt Toolkit](https://www.ossnav.com/app/238.html) | 多功能 Steam 工具箱，支持github、Steam、微软商店等多国外平台加速！ | [![]([https://github.com/maxiaobang7/ossnav/blob/main/link.png](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png))](https://github.com/BeyondDimension/SteamTools)
+[OBS Studio](https://www.ossnav.com/app/57.html ) | 一键实现 AI 换脸，仅需一张换脸图像，无需数据集，无需训练，自带敏感图像检测功能。| [![]([https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png))](https://obsproject.com/)
 
 ### 便捷工具
 ### 办公软件
