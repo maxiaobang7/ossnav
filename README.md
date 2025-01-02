@@ -71,6 +71,7 @@ https://www.ossnav.com/
 [yt-dlp](https://www.ossnav.com/app/224.html) | 视频和音频下载工具，支持1800多个网站。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/yt-dlp/yt-dlp)
 [Motrix](https://www.ossnav.com/app/263.html) | 全能的下载工具，支持下载 HTTP、FTP、BT、磁力链接等资源。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://motrix.app/zh-CN/)
 [FreeFileSync](https://www.ossnav.com/app/297.html) | 文件同步和备份软件。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://freefilesync.org/)
+[LocalSend](https://www.ossnav.com/app/301.html) | 跨平台局域网文件传输工具。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://localsend.org/zh-CN/download)
 
 ### 图形设计
 
