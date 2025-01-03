@@ -87,6 +87,7 @@ https://www.ossnav.com/
 [Audacity](https://www.ossnav.com/app/125.html) | 开源免费的音频编辑和录音应用。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/audacity/audacity)
 [图小小](https://www.ossnav.com/app/269.html) | 开源的批量图片压缩工具。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/joye61/pic-smaller)
 [Final2x](https://www.ossnav.com/app/289.html) | 开源图片无损放大工具。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/Tohrusky/Final2x)
+[VLC](https://www.ossnav.com/app/317.html) | 开源免费的媒体播放器。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://www.videolan.org/)
 
 ### 开发编程
 
@@ -101,6 +102,7 @@ https://www.ossnav.com/
 [Rufus](https://www.ossnav.com/app/68.html) | 开源免费的快速制作 U 盘系统启动盘和格式化 USB 的实用小工具。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://rufus.ie/zh/)
 [lively](https://www.ossnav.com/app/164.html) | Windows系统免费动态桌面壁纸软件。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/rocksdanister/lively)
 [CrystalDiskMark 8](https://www.ossnav.com/app/170.html) | 硬盘速度测试工具。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://crystalmark.info/en/software/crystaldiskmark/)
+[MAS](https://www.ossnav.com/app/309.html) | 永久免费激活Windows系统和Office 办公软件。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
 ### 教育学习
 
