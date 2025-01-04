@@ -52,6 +52,7 @@ https://www.ossnav.com/
 [draw.io](https://www.ossnav.com/app/281.html ) | 图表绘制工具，免安装、免登录、免费。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/jgraph/drawio-desktop)
 [微信多开防撤回](https://www.ossnav.com/app/248.html) | 微信/QQ/TIM多开防撤回补丁。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/huiyadanli/RevokeMsgPatcher)
 [RustDesk ](https://www.ossnav.com/app/84.html) | 开源免费的远程桌面控制软件，替代TeamViewer、向日葵。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://rustdesk.com/zh-cn/)
+[ScreeGo](https://www.ossnav.com/app/323.html) | 网页版屏幕共享工具。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/screego/server)
 
 ### 人工智能
 
