@@ -104,6 +104,7 @@ https://www.ossnav.com/
 [lively](https://www.ossnav.com/app/164.html) | Windows系统免费动态桌面壁纸软件。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/rocksdanister/lively)
 [CrystalDiskMark 8](https://www.ossnav.com/app/170.html) | 硬盘速度测试工具。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://crystalmark.info/en/software/crystaldiskmark/)
 [MAS](https://www.ossnav.com/app/309.html) | 永久免费激活Windows系统和Office 办公软件。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/massgravel/Microsoft-Activation-Scripts)
+[BCUninstaller](https://www.ossnav.com/app/329.html) | Windows系统上的软件批量卸载工具.| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/Klocman/Bulk-Crap-Uninstaller)
 
 ### 教育学习
 
