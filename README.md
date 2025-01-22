@@ -118,6 +118,7 @@ https://www.ossnav.com/
 [开源阅读](https://www.ossnav.com/app/79.html ) | 支持自定义书源的开源阅读电子书App。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://gedoor.github.io/)
 [interview](https://www.ossnav.com/app/122.html ) | C/C++ 技术面试基础知识总结。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/huihut/interview)
 [Qwerty Learner](https://www.ossnav.com/app/254.html) | 开源的在线打字练习工具，专为为键盘工作者设计的单词与肌肉记忆锻炼软。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://qwerty.kaiyi.cool/)
+[Olib开源图书](https://www.ossnav.com/app/380.html) | 开源电子书下载工具，免费下载Z-Library 电子书。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/shiyi-0x7f/o-lib)
 
 ### 网络安全
 
