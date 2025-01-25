@@ -45,6 +45,7 @@ https://www.ossnav.com/
 [Traffic Monitor](https://www.ossnav.com/app/114.html) | 网速监控悬浮窗软件，可以显示当前网速、CPU及内存利用率。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/zhongyang219/TrafficMonitor)
 [PowerToys](https://www.ossnav.com/app/60.html ) | 微软官方推出的Windows系统增强工具箱。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://apps.microsoft.com/detail/xp89dcgq3k6vld?hl=zh-cn&gl=FR/)
 [ContextMenuManager](https://www.ossnav.com/app/388.html) | Windows右键菜单管理工具。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://bluepointlilac.github.io/ContextMenuManager/)
+[Escrcpy](https://www.ossnav.com/app/389.html) |跨平台安卓手机远程控制工具。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/viarotel-org/escrcpy)
 
 
 ### 办公软件
