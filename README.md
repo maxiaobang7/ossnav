@@ -65,6 +65,7 @@ https://www.ossnav.com/
 [NextChat](https://www.ossnav.com/app/107.html ) | 一键免费部署你的私人 ChatGPT 网页应用。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
 [OpenAI Translator](https://www.ossnav.com/app/157.html) | 基于ChatGPT API 的划词翻译插件。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/openai-translator/openai-translator)
 [Chatbox](https://www.ossnav.com/app/364.html) | AI对话客户端，它支持接入 ChatGPT、Claude 和其他 LLMs 等多个大模型的API。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://chatboxai.app/zh)
+[Ollama](https://www.ossnav.com/app/399.html) | 开源的大型语言模型（LLM）本地化部署工具。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://ollama.com/)
 
 ### 文件管理
 
