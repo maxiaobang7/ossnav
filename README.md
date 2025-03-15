@@ -144,6 +144,7 @@ https://www.ossnav.com/
 [ZyPlayer](https://www.ossnav.com/app/96.html) | 全功能影视资源播放器。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/Hiram-Wong/ZyPlayer)
 [洛雪音乐助手](https://www.ossnav.com/app/101.html) | 支持自定义音乐源的音乐播放器。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/lyswhut/lx-music-desktop)
 [人人影视分享站](https://www.ossnav.com/app/148.html) | 人人影视全部资源以及众多网友的网盘资源分享。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/tgbot-collection/YYeTsBot)
+[电视浏览器](https://www.ossnav.com/app/418.html) | 超级稳定的央视卫视电视直播盒子。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/Eanya-Tonic/CCTV_Viewer)
 
 ### 通讯社交
 
