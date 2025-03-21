@@ -117,6 +117,7 @@ https://www.ossnav.com/
 [CrystalDiskMark 8](https://www.ossnav.com/app/170.html) | 硬盘速度测试工具。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://crystalmark.info/en/software/crystaldiskmark/)
 [MAS](https://www.ossnav.com/app/309.html) | 永久免费激活Windows系统和Office 办公软件。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/massgravel/Microsoft-Activation-Scripts)
 [BCUninstaller](https://www.ossnav.com/app/329.html) | Windows系统上的软件批量卸载工具.| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/Klocman/Bulk-Crap-Uninstaller)
+[TranslucentTB](https://www.ossnav.com/app/422.html) | Windows系统任务栏透明/半透明的小工具.| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/TranslucentTB/TranslucentTB)
 
 ### 教育学习
 
