@@ -136,6 +136,7 @@ https://www.ossnav.com/
 [Wireshark](https://www.ossnav.com/app/143.html) | 开源的网络协议分析工具，网络拽包工具。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://www.wireshark.org/)
 [KeePass ](https://www.ossnav.com/app/175.html) | 密码保险箱，开源免费的密码管理工具。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://keepass.info/)
 [Watt Toolkit](https://www.ossnav.com/app/238.html) | 多功能 Steam 工具箱，支持github、Steam、微软商店等多国外平台加速！ | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/BeyondDimension/SteamTools)
+[MyIP](https://www.ossnav.com/app/430.html) | IP信息查询/测试工具 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/jason5ng32/MyIP)
 
 ### 游戏娱乐
 
