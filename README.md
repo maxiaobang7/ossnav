@@ -47,6 +47,7 @@ https://www.ossnav.com/
 [ContextMenuManager](https://www.ossnav.com/app/388.html) | Windows右键菜单管理工具。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://bluepointlilac.github.io/ContextMenuManager/)
 [Escrcpy](https://www.ossnav.com/app/389.html) |跨平台安卓手机远程控制工具。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/viarotel-org/escrcpy)
 [STranslate](https://www.ossnav.com/app/405.html) |Windows平台多引擎划词翻译工具，支持AI翻译和OCR文字识别翻译。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/ZGGSONG/STranslate)
+[Umi-OCR](https://www.ossnav.com/app/440.html) |离线 OCR 文字识别工具。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/hiroi-sora/Umi-OCR)
 
 
 
