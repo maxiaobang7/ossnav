@@ -83,6 +83,7 @@ https://www.ossnav.com/
 [LocalSend](https://www.ossnav.com/app/301.html) | 跨平台局域网文件传输工具。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://localsend.org/zh-CN/download)
 [DouyinLiveRecorder](https://www.ossnav.com/app/341.html) | 直播录制软件，支持循环值守和多人录制。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/ihmily/DouyinLiveRecorder/releases)
 [ABDonwnloadManager](https://www.ossnav.com/app/411.html) | 开源免费高速下载工具，可替代知名下载工具IDM| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/amir1376/ab-download-manager)
+[Cobalt](https://www.ossnav.com/app/478.html) | 开源免费的流媒体下载工具，支持YouTube、B站、小红书| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/imputnet/cobalt)
 
 ### 图形设计
 
