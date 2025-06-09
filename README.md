@@ -102,6 +102,7 @@ https://www.ossnav.com/
 [Final2x](https://www.ossnav.com/app/289.html) | 开源图片无损放大工具。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/Tohrusky/Final2x)
 [VLC](https://www.ossnav.com/app/317.html) | 开源免费的媒体播放器。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://www.videolan.org/)
 [Screenity](https://www.ossnav.com/app/372.html) | 免费无限制的录屏工具。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://screenity.io/en/)
+[Screenity](https://www.ossnav.com/app/483.html) | 轻量级的 Windows 图像查看器，支持GIF/WEBP 格式。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/voidtools/voidImageViewer)
 
 
 ### 开发编程
