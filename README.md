@@ -109,7 +109,9 @@ https://www.ossnav.com/
 
 工具名称 | 简介 | 源
 ---- | ----- | -----
-[VS Code](https://www.ossnav.com/app/134.html) | 写作体验极佳的代码编辑器。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://code.visualstudio.com/Download)
+[VS Code](https://www.ossnav.com/app/134.html) | 写作体验极佳的代码编辑器。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://code.visualstudio.com/Download)+
+[Notepad Nextv0.12](https://www.ossnav.com/app/493.html) | 跨平台开源文本编辑器，Notepad++的最佳替代产品。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/dail8859/NotepadNext)
+[Uiverse](https://www.ossnav.com/app/467.html) | 全球最大开源UI库Uiverse.io| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://uiverse.io/)
 
 ### 系统工具
 
