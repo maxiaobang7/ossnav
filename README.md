@@ -48,6 +48,7 @@ https://www.ossnav.com/
 [Escrcpy](https://www.ossnav.com/app/389.html) |跨平台安卓手机远程控制工具。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/viarotel-org/escrcpy)
 [STranslate](https://www.ossnav.com/app/405.html) |Windows平台多引擎划词翻译工具，支持AI翻译和OCR文字识别翻译。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/ZGGSONG/STranslate)
 [Umi-OCR](https://www.ossnav.com/app/440.html) |离线 OCR 文字识别工具。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/hiroi-sora/Umi-OCR)
+[Pot翻译](https://www.ossnav.com/app/504.html) |跨平台划词翻译和OCR。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/pot-app/pot-desktop)
 
 
 
@@ -132,6 +133,7 @@ https://www.ossnav.com/
 [interview](https://www.ossnav.com/app/122.html ) | C/C++ 技术面试基础知识总结。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/huihut/interview)
 [Qwerty Learner](https://www.ossnav.com/app/254.html) | 开源的在线打字练习工具，专为为键盘工作者设计的单词与肌肉记忆锻炼软。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://qwerty.kaiyi.cool/)
 [Olib开源图书](https://www.ossnav.com/app/380.html) | 开源电子书下载工具，免费下载Z-Library 电子书。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/shiyi-0x7f/o-lib)
+[ChinaTextbook](https://www.ossnav.com/app/500.html) | 小学、初中、高中以及到大学所有PDF教材。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/TapXWorld/ChinaTextbook)
 
 ### 网络安全
 
