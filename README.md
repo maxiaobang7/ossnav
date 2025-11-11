@@ -162,6 +162,9 @@ https://www.ossnav.com/
 [电视浏览器](https://www.ossnav.com/app/418.html) | 超级稳定的央视卫视电视直播盒子。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/Eanya-Tonic/CCTV_Viewer)
 [Kodi](https://www.ossnav.com/app/488.html) | 免费的开源家庭影院/媒体中心软件和娱乐中心| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/xbmc/xbmc)
 [油桃TV](https://www.ossnav.com/app/558.html) | 专为电视投影等大屏设备设计的一个第三方浏览器| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/VonChange/utao)
+[WebView 电视](https://www.ossnav.com/app/567.html) | 开源的电视直播APP ，支持央视卫视非常稳定！| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/hxh19950701/WebViewTvLive)
+
+### 通讯社交
 
 ### 通讯社交
 
