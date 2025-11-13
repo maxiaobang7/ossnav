@@ -62,6 +62,7 @@ https://www.ossnav.com/
 [ScreeGo](https://www.ossnav.com/app/323.html) | 网页版屏幕共享工具。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/screego/server)
 [卡卡字幕助手](https://www.ossnav.com/app/516.html) | 基于大语言模型(LLM)的视频字幕处理助手。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/WEIFENG2333/VideoCaptioner)
 [LibreOffice](https://www.ossnav.com/app/353.html) | 开源免费的officer办公软件，可替代WPS和微软officer。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://zh-cn.libreoffice.org/)
+[CrossDesk](https://www.ossnav.com/app/575.html) |开源、轻量级的跨平台远程桌面工具 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/kunkundi/crossdesk)
 
 ### 人工智能
 
