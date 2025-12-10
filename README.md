@@ -96,6 +96,13 @@ https://www.ossnav.com/
 [Sweet Home 3D](https://www.ossnav.com/app/129.html) | 室内设计软件，它支持快速绘制房屋的平面图，布置家具，最后以 3D 形式查看结果。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://www.sweethome3d.com/SweetHome3DJSOnline.jsp)
 [果米设计器](https://www.ossnav.com/app/369.html) | 免费开源的海报设计器。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](http://gzm-design-doc.guozimi.cn/)
 
+### Android
+
+工具名称 | 简介 | 源
+---- | ----- | -----
+[XMSLEEP](https://www.ossnav.com/app/600.html) | 专注于白噪音播放的 Android 应用。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/Tosencen/XMSLEEP)
+
+
 ### 媒体处理
 
 工具名称 | 简介 | 源
