@@ -125,6 +125,8 @@ https://www.ossnav.com/
 [VS Code](https://www.ossnav.com/app/134.html) | 写作体验极佳的代码编辑器。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://code.visualstudio.com/Download)+
 [Notepad Nextv0.12](https://www.ossnav.com/app/493.html) | 跨平台开源文本编辑器，Notepad++的最佳替代产品。| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/dail8859/NotepadNext)
 [Uiverse](https://www.ossnav.com/app/467.html) | 全球最大开源UI库Uiverse.io| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://uiverse.io/)
+[fzf](https://www.ossnav.com/app/620.html) | 通用的命令行模糊查找器| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/junegunn/fzf)
+[ImHex](https://www.ossnav.com/app/613.html) | 十六进制编辑器（Hex Editor）| [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/WerWolv/ImHex)
 
 ### 系统工具
 
