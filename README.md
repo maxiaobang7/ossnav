@@ -53,6 +53,7 @@ https://www.ossnav.com/
 [Umi-OCR](https://www.ossnav.com/app/440.html) | 离线 OCR 文字识别工具 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/hiroi-sora/Umi-OCR)
 [Pot翻译](https://www.ossnav.com/app/504.html) | 跨平台划词翻译和OCR | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://pot-app.com/)
 [流畅阅读 (FluentRead)](https://www.ossnav.com/app/581.html) | 开源的浏览器AI翻译插件，主打“沉浸式/母语化阅读”体验 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://fluent.thinkstu.com/)
+[Kando](https://www.ossnav.com/app/988.html) | 免费开源的跨平台环形快捷菜单，可通过方向手势启动应用、打开文件、执行快捷键和命令。 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://kando.menu/)
 
 ### 办公软件
 
@@ -65,6 +66,7 @@ https://www.ossnav.com/
 [LibreOffice](https://www.ossnav.com/app/353.html) | 开源免费的officer办公软件，可替代WPS和微软officer | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://zh-cn.libreoffice.org/)
 [卡卡字幕助手](https://www.ossnav.com/app/516.html) | 基于大语言模型(LLM)的视频字幕处理助手，支持语音识别、字幕断句、优化、AI字幕翻译全流程处理 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/WEIFENG2333/VideoCaptioner)
 [CrossDesk](https://www.ossnav.com/app/575.html) | 开源、轻量级的跨平台远程桌面工具 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://www.crossdesk.cn/)
+[Saber](https://www.ossnav.com/app/981.html) | 免费开源的跨平台手写笔记与 PDF 批注工具，支持多级文件夹、深色模式和加密同步。 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://saber.adil.hanney.org/)
 
 ### 人工智能
 
@@ -137,6 +139,7 @@ https://www.ossnav.com/
 [Olib开源图书](https://www.ossnav.com/app/380.html) | 开源电子书下载工具，免费下载Z-Library 电子书 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/shiyi-0x7f)
 [ChinaTextbook](https://www.ossnav.com/app/500.html) | 小学、初中、高中以及到大学所有PDF教材 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/TapXWorld/ChinaTextbook)
 [So Novel](https://www.ossnav.com/app/527.html) | 开源免费的命令行网络小说下载工具 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/freeok/so-novel)
+[Kiwix](https://www.ossnav.com/app/973.html) | 离线版维基百科 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://kiwix.org/en/)
 
 ### 图形设计
 
@@ -144,6 +147,7 @@ https://www.ossnav.com/
 ---- | ----- | -----
 [Sweet Home 3D](https://www.ossnav.com/app/129.html) | 一款室内设计软件，它支持快速绘制房屋的平面图，布置家具，最后以 3D 形式查看结果。 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://www.sweethome3d.com/)
 [果米设计器](https://www.ossnav.com/app/369.html) | 免费开源的海报设计器 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](http://gzm-design-doc.guozimi.cn/)
+[FreeCAD](https://www.ossnav.com/app/1005.html) | 支持机械设计、建筑 BIM 与工程分析的免费开源三维参数化 CAD | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://www.freecad.org/)
 
 ### 系统工具
 
@@ -192,15 +196,18 @@ https://www.ossnav.com/
 工具名称 | 简介 | 源
 ---- | ----- | -----
 [Thunderbird](https://www.ossnav.com/app/210.html) | 替代 Outlook、Foxmail 的开源免费邮箱客户端 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://www.thunderbird.net/zh-CN/)
+[FluffyChat](https://www.ossnav.com/app/1000.html) | 支持端到端加密和自建服务器的免费开源 Matrix 聊天客户端 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://fluffychat.im/)
 
 ### 数据存储
 
 工具名称 | 简介 | 源
 ---- | ----- | -----
 [dsq](https://www.ossnav.com/app/219.html) | SQL 查询的命令行工具，用于对 JSON、CSV、Excel、Parquet 等运行 SQL 查询的命令行工具 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/multiprocessio/dsq)
+[Kopia](https://www.ossnav.com/app/993.html) | 跨平台、端到端加密并支持压缩去重的开源备份工具 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://kopia.io/)
 
 ### 插件扩展
 
 工具名称 | 简介 | 源
 ---- | ----- | -----
 [WP Image Compress Upload](https://www.ossnav.com/app/644.html) | WordPress网站图片压缩转格式后自动上传插件。 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/maxiaobang7/WP-Image-Compress-Upload)
+[Sidebery](https://www.ossnav.com/app/1009.html) | 用树状标签页、面板、容器与快照整理 Firefox 工作区的免费开源扩展 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/mbnuqw/sidebery)
