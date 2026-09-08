@@ -43,6 +43,8 @@ https://www.ossnav.com/
 
 工具名称 | 简介 | 源
 ---- | ----- | -----
+[n8n](https://www.ossnav.com/app/1150.html) | 支持数百种集成、代码节点和自托管的可视化工作流自动化平台。 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://n8n.io/)
+[Cal.diy](https://www.ossnav.com/app/1151.html) | 从 Cal.com 社区代码延续而来的个人自托管日程预约项目。 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/calcom/cal.diy)
 [Ditto](https://www.ossnav.com/app/205.html) | Windows剪切板管理器 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://ditto-cp.sourceforge.io/)
 [Suntimes](https://www.ossnav.com/app/199.html) | 追踪太阳和月亮时间的App | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/forrestguice/SuntimesWidget)
 [Traffic Monitor](https://www.ossnav.com/app/114.html) | 网速监控悬浮窗软件，可以显示当前网速、CPU及内存利用率 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/zhongyang219/TrafficMonitor)
@@ -59,6 +61,8 @@ https://www.ossnav.com/
 
 工具名称 | 简介 | 源
 ---- | ----- | -----
+[AppFlowy](https://www.ossnav.com/app/1148.html) | 支持文档、数据库、看板与自托管的跨平台开源协作工作区。 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://appflowy.io/)
+[Cal.diy](https://www.ossnav.com/app/1151.html) | 从 Cal.com 社区代码延续而来的个人自托管日程预约项目。 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/calcom/cal.diy)
 [RustDesk](https://www.ossnav.com/app/84.html) | 开源免费的远程桌面控制软件，替代TeamViewer、向日葵 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://rustdesk.com/zh-cn/)
 [微信多开防撤回](https://www.ossnav.com/app/248.html) | 微信/QQ/TIM多开防撤回补丁 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/huiyadanli/RevokeMsgPatcher)
 [draw.io](https://www.ossnav.com/app/281.html) | 图表绘制工具，免安装、免登录、免费 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://www.drawio.com/)
@@ -72,6 +76,8 @@ https://www.ossnav.com/
 
 工具名称 | 简介 | 源
 ---- | ----- | -----
+[Fooocus](https://www.ossnav.com/app/1145.html) | 简化 Stable Diffusion 配置的本地 AI 绘图与局部重绘工具。 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/lllyasviel/Fooocus)
+[Whisper](https://www.ossnav.com/app/1146.html) | 可本地运行的多语言语音识别、翻译与语言识别模型。 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/openai/whisper)
 [NextChat](https://www.ossnav.com/app/107.html) | 一键免费部署你的私人 ChatGPT 网页应用 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
 [OpenAI Translator](https://www.ossnav.com/app/157.html) | 基于ChatGPT API 的划词翻译插件 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/openai-translator/openai-translator)
 [HivisionIDPhotos](https://www.ossnav.com/app/192.html) | 轻量级的AI证件照制作工具 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/Zeyi-Lin/HivisionIDPhotos)
@@ -100,6 +106,8 @@ https://www.ossnav.com/
 
 工具名称 | 简介 | 源
 ---- | ----- | -----
+[Shotcut](https://www.ossnav.com/app/1027.html) | 支持多轨时间线、滤镜、字幕、代理剪辑和专业导出的免费开源视频编辑器 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://www.shotcut.org/download/)
+[Whisper](https://www.ossnav.com/app/1146.html) | 可本地运行的多语言语音识别、翻译与语言识别模型。 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/openai/whisper)
 [OBS Studio](https://www.ossnav.com/app/57.html) | 免费开源的视频录制和直播软件 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://obsproject.com/)
 [Audacity](https://www.ossnav.com/app/125.html) | 开源免费的音频编辑和录音应用 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://www.audacityteam.org/)
 [图小小](https://www.ossnav.com/app/269.html) | 开源的批量图片压缩工具 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://picsmaller.com/)
@@ -116,6 +124,10 @@ https://www.ossnav.com/
 
 工具名称 | 简介 | 源
 ---- | ----- | -----
+[AntennaPod](https://www.ossnav.com/app/1014.html) | 支持开放订阅、离线下载和自动管理的免费开源 Android 播客播放器 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://antennapod.org/)
+[Organic Maps](https://www.ossnav.com/app/1047.html) | 可离线搜索地点、规划路线并进行语音导航的免费开源地图应用 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://organicmaps.app/)
+[Fossify Gallery](https://www.ossnav.com/app/1064.html) | 无广告、无需账号，能在安卓手机本地整理、编辑和保护照片与视频的免费开源图库 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://www.fossify.org/apps/gallery/)
+[Obtainium](https://www.ossnav.com/app/1088.html) | 从项目官方发行页检查、下载和更新 Android 应用的免费开源工具 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://obtainium.imranr.dev/)
 [XMSLEEP](https://www.ossnav.com/app/600.html) | 专注于白噪音播放的 Android 应用 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/Tosencen/XMSLEEP)
 [PlayBridge](https://www.ossnav.com/app/966.html) | 免费开源的视频投屏工具 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://playbridge.app/)
 
@@ -123,6 +135,10 @@ https://www.ossnav.com/
 
 工具名称 | 简介 | 源
 ---- | ----- | -----
+[DBeaver Community](https://www.ossnav.com/app/1031.html) | 集数据库连接、SQL 编辑、数据浏览与导入导出于一体的免费开源跨平台数据库管理工具 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://dbeaver.io/download/)
+[GitHub Desktop](https://www.ossnav.com/app/1084.html) | 用图形界面管理 GitHub 仓库、分支、提交与同步的免费开源客户端 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://desktop.github.com/)
+[Plausible](https://www.ossnav.com/app/1147.html) | 轻量、隐私友好，并提供自托管社区版的网站统计工具。 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://plausible.io/community-edition)
+[n8n](https://www.ossnav.com/app/1150.html) | 支持数百种集成、代码节点和自托管的可视化工作流自动化平台。 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://n8n.io/)
 [VS Code](https://www.ossnav.com/app/134.html) | 写作体验极佳的代码编辑器 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://code.visualstudio.com/)
 [Uiverse](https://www.ossnav.com/app/467.html) | 全球最大开源UI库Uiverse.io | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://uiverse.io/)
 [Notepad Next](https://www.ossnav.com/app/493.html) | 跨平台开源文本编辑器，Notepad++的最佳替代产品！ | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/dail8859/NotepadNext)
@@ -133,6 +149,7 @@ https://www.ossnav.com/
 
 工具名称 | 简介 | 源
 ---- | ----- | -----
+[Stellarium](https://www.ossnav.com/app/1043.html) | 可按地点和时间模拟真实星空、星座与天体运动的免费开源天文软件 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://stellarium.org/zh_CN/)
 [开源阅读](https://www.ossnav.com/app/79.html) | 支持自定义书源的开源阅读电子书App | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://gedoor.github.io/)
 [interview](https://www.ossnav.com/app/122.html) | C/C++ 技术面试基础知识总结 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://interview.huihut.com/#/)
 [Qwerty Learner](https://www.ossnav.com/app/254.html) | 开源的在线打字练习工具，专为为键盘工作者设计的单词与肌肉记忆锻炼软。 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://qwerty.kaiyi.cool/)
@@ -145,6 +162,12 @@ https://www.ossnav.com/
 
 工具名称 | 简介 | 源
 ---- | ----- | -----
+[Drawpile](https://www.ossnav.com/app/1039.html) | 支持多人实时同画、画布权限和时间轴动画的免费开源跨平台绘画软件 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://drawpile.net/download/)
+[Inkscape](https://www.ossnav.com/app/1076.html) | 用于绘制标志、图标、插画和技术图形的免费开源矢量编辑器 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://inkscape.org/)
+[Pinta](https://www.ossnav.com/app/1093.html) | 适合绘图、截图处理和基础修图的免费开源跨平台位图编辑软件 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://www.pinta-project.com/)
+[Krita](https://www.ossnav.com/app/1113.html) | 支持中文界面的免费开源数字绘画软件，可完成插画、漫画、分层上色和逐帧动画 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://krita.org/zh-cn/)
+[darktable](https://www.ossnav.com/app/1117.html) | 免费开源的 RAW 照片管理、非破坏性处理与批量导出工具。 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://www.darktable.org/)
+[Penpot](https://www.ossnav.com/app/1149.html) | 基于开放 Web 标准的开源界面设计、原型和开发协作平台。 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://penpot.app/)
 [Sweet Home 3D](https://www.ossnav.com/app/129.html) | 一款室内设计软件，它支持快速绘制房屋的平面图，布置家具，最后以 3D 形式查看结果。 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://www.sweethome3d.com/)
 [果米设计器](https://www.ossnav.com/app/369.html) | 免费开源的海报设计器 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](http://gzm-design-doc.guozimi.cn/)
 [FreeCAD](https://www.ossnav.com/app/1005.html) | 支持机械设计、建筑 BIM 与工程分析的免费开源三维参数化 CAD | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://www.freecad.org/)
@@ -195,6 +218,10 @@ https://www.ossnav.com/
 
 工具名称 | 简介 | 源
 ---- | ----- | -----
+[Delta Chat](https://www.ossnav.com/app/1023.html) | 无需绑定手机号、支持桌面与移动端的免费开源去中心化加密聊天软件 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://delta.chat/download)
+[Jami](https://www.ossnav.com/app/1060.html) | 无需手机号即可创建账号，支持加密聊天、音视频通话和文件传输的免费开源通信软件 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://jami.net/)
+[SimpleX Chat](https://www.ossnav.com/app/1080.html) | 无需手机号、邮箱或固定用户 ID 的免费开源加密聊天工具 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://simplex.chat/)
+[KDE Connect](https://www.ossnav.com/app/1105.html) | 让手机与电脑互传文件、共享剪贴板、同步通知和远程控制的免费开源工具 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://kdeconnect.kde.org/)
 [Thunderbird](https://www.ossnav.com/app/210.html) | 替代 Outlook、Foxmail 的开源免费邮箱客户端 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://www.thunderbird.net/zh-CN/)
 [FluffyChat](https://www.ossnav.com/app/1000.html) | 支持端到端加密和自建服务器的免费开源 Matrix 聊天客户端 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://fluffychat.im/)
 
@@ -202,6 +229,11 @@ https://www.ossnav.com/
 
 工具名称 | 简介 | 源
 ---- | ----- | -----
+[Nextcloud Desktop](https://www.ossnav.com/app/1018.html) | 连接自建或托管 Nextcloud 服务器的免费开源跨平台文件同步客户端 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://nextcloud.com/install/#install-clients)
+[Cryptomator](https://www.ossnav.com/app/1056.html) | 在文件上传云盘前加密内容、文件名和目录结构的免费开源保险库工具 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://cryptomator.org/)
+[Syncthing](https://www.ossnav.com/app/1072.html) | 在多台电脑之间直接同步指定文件夹的免费开源跨平台工具 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://syncthing.net/)
+[KeePassXC](https://www.ossnav.com/app/1097.html) | 把账号密码保存在本地 KDBX 加密文件中的免费开源跨平台密码管理器 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://keepassxc.org/)
+[Notesnook](https://www.ossnav.com/app/1123.html) | 免费开源的端到端加密笔记与多设备同步工具。 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://notesnook.com/)
 [dsq](https://www.ossnav.com/app/219.html) | SQL 查询的命令行工具，用于对 JSON、CSV、Excel、Parquet 等运行 SQL 查询的命令行工具 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/multiprocessio/dsq)
 [Kopia](https://www.ossnav.com/app/993.html) | 跨平台、端到端加密并支持压缩去重的开源备份工具 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://kopia.io/)
 
@@ -209,5 +241,8 @@ https://www.ossnav.com/
 
 工具名称 | 简介 | 源
 ---- | ----- | -----
+[Dark Reader](https://www.ossnav.com/app/1035.html) | 为网页生成可调深色主题并支持按站点控制、定时启用的免费开源浏览器扩展 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://darkreader.org/)
+[Privacy Badger](https://www.ossnav.com/app/1051.html) | 自动限制跨站跟踪器并发送隐私选择信号的免费开源浏览器扩展 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://privacybadger.org/)
+[SponsorBlock](https://www.ossnav.com/app/1068.html) | 按社区标注自动跳过 YouTube 赞助、片头片尾和互动提醒的免费开源浏览器扩展 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://sponsor.ajay.app/)
 [WP Image Compress Upload](https://www.ossnav.com/app/644.html) | WordPress网站图片压缩转格式后自动上传插件。 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/maxiaobang7/WP-Image-Compress-Upload)
 [Sidebery](https://www.ossnav.com/app/1009.html) | 用树状标签页、面板、容器与快照整理 Firefox 工作区的免费开源扩展 | [![](https://github.com/maxiaobang7/ossnav/blob/main/link-logo.png)](https://github.com/mbnuqw/sidebery)
